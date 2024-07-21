@@ -9,7 +9,7 @@ export const Dashboard = ()=>{
             <div className="m-8">
                 <Balance value={10000} />
                 {/* Your other components go here */}
-               <Users/>
+              <Users/>
             </div>
         </div>
     );
